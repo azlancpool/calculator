@@ -9,6 +9,7 @@ public class CalculatorApplication {
 	// docmuentation here
 	public static void main(String[] args) {
 		System.out.println("Prueba de cambios git - test");
+		//int number;
 		SpringApplication.run(CalculatorApplication.class, args);
 	}
 
