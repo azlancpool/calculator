@@ -8,6 +8,7 @@ public class CalculatorApplication {
 
 	// docmuentation here
 	public static void main(String[] args) {
+		//int number;
 		SpringApplication.run(CalculatorApplication.class, args);
 	}
 
