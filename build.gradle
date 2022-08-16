@@ -4,6 +4,7 @@ plugins {
 	id 'java'
 }
 
+//MODIFICADO POR LEONARDO VASQUEZ
 // TODO: The next line must be removed
 group = 'com.example'
 version = '0.0.1-SNAPSHOT'
